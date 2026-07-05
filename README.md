@@ -64,7 +64,7 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
-## Featured Projects
+## Projects
 
 - [Z](https://github.com/ZiyadALharbi/Z) - A coding agent project built around separate AI transport, agent loop, and coding application layers; planned to be rebuilt with a stronger architecture.
 - [Writing-tool](https://github.com/ZiyadALharbi/Writing-tool) - An obsolete/abandoned Arabic-first writing workspace with local article management, version snapshots, word-level diffs, and AI rewrite suggestions.
@@ -80,6 +80,7 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
   <a href="https://www.linkedin.com/in/ziyad-alharbi-294059222/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a> </a>
   <a href="https://x.com/Ziyad_1440">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
