@@ -4,9 +4,7 @@
 
 # Hi, I'm Ziyad 👋
 
-I'm an AI engineer building practical software with LLMs, machine learning, and backend systems.
-
-I like taking ideas from rough experiments to working products, especially when they solve real problems or make complex workflows easier to use.
+I'm AI/SWE engineer focused on building useful AI software products and developing my skills in AI engineering.
 
 ## What I'm Working On
 
