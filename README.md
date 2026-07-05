@@ -4,7 +4,7 @@
 
 # Hi, I'm Ziyad 👋
 
-I'm AI/SWE engineer focused on building useful AI software products and developing my skills in AI engineering.
+I'm AI Engineer who loves to build useful AI tools.
 
 ## What I'm Working On
 
