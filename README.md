@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.png" alt="Ziyad profile header" width="100%" />
+</p>
+
 # Hi, I'm Ziyad 👋
 
 I'm a software engineer focused on building useful software products and developing my skills in AI engineering.
@@ -71,6 +75,11 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/ziyad-alharbi-294059222/
-- X: https://x.com/Ziyad_1440
-- GitHub: https://github.com/ZiyadALharbi
+<p>
+  <a href="https://www.linkedin.com/in/ziyad-alharbi-294059222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Ziyad_1440">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
