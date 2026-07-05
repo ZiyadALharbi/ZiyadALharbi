@@ -66,6 +66,7 @@ I'm AI Engineer who loves to build useful AI tools.
 - [Z](https://github.com/ZiyadALharbi/Z) - A coding agent project built around separate AI transport, agent loop, and coding application layers; planned to be rebuilt with a stronger architecture.
 - [Writing-tool](https://github.com/ZiyadALharbi/Writing-tool) - An obsolete/abandoned Arabic-first writing workspace with local article management, version snapshots, word-level diffs, and AI rewrite suggestions.
 - [LLM](https://github.com/ZiyadALharbi/LLM) - A hands-on PyTorch project for learning how GPT-style language models work from tokenization through pretraining and fine-tuning.
+- [Fantasy Premier League (FPL) Analytics Project](https://github.com/ZiyadALharbi/Fantasy-Premier-League-FPL-Analytics-Project) - A Jupyter and Streamlit analytics workflow for 2024-25 FPL data with player, team, trend, and value optimization insights.
 - [Voice Emotion Recognition System](https://github.com/ZiyadALharbi/Voice-Emotion-Recognition-System) - A real-time machine learning app that predicts emotions from voice recordings using audio feature extraction and classification.
 - [Computer Vision Project Satellite Team](https://github.com/ZiyadALharbi/computer-vision-project-satellite-team) - A satellite imagery project that uses computer vision to detect oil spills from SAR images.
 
