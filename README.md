@@ -31,7 +31,6 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 ### AI and Data
@@ -39,16 +38,12 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logoColor=white" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Fine--tuning-6D28D9?style=for-the-badge&logoColor=white" alt="Fine-tuning" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
 </p>
@@ -64,7 +59,6 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black" alt="Drizzle" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
 ## Featured Projects
