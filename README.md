@@ -57,7 +57,6 @@ I enjoy turning ideas into real projects, experimenting with emerging technologi
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white" alt="Convex" />
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
