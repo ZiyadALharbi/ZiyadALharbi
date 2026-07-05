@@ -4,15 +4,14 @@
 
 # Hi, I'm Ziyad 👋
 
-I'm a software engineer focused on building useful software products and developing my skills in AI engineering.
+I'm AI/SWE engineer focused on building useful AI software products and developing my skills in AI engineering.
 
 I enjoy turning ideas into real projects, experimenting with emerging technologies, and solving practical problems through software.
 
 ## What I'm Working On
 
-- Building software and AI-powered projects
-- Learning machine learning, LLMs, and AI application development
-- Exploring product ideas with strong real-world value
+- Building software and AI-powered projects, such as AREEB/ أريب (will be my biggest project so far)
+- Learning Advanced LLMs, RL, and more advanced concepts
 - Improving my backend, system design, and deployment skills
 
 ## Tech Stack
