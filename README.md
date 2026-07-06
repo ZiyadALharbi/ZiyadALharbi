@@ -2,7 +2,7 @@
   <img src="./assets/header.png" alt="Ziyad profile header" width="100%" />
 </p>
 
-# Hi, I'm Ziyad 👋
+# Salam, I'm Ziyad 👋
 
 I'm AI Engineer who loves to build useful AI tools.
 
