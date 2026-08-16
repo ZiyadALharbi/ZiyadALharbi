@@ -63,7 +63,7 @@ I'm AI Engineer who loves to build useful AI tools.
 
 ## Projects
 
-- [Z](https://github.com/ZiyadALharbi/Z) - A coding agent project built around separate AI transport, agent loop, and coding application layers; planned to be rebuilt with a stronger architecture.
+- [Areeb](https://github.com/ZiyadALharbi/Areeb) - A coding agent project being built with a stronger architecture around separate AI transport, agent loop, and coding application layers.
 - [Writing-tool](https://github.com/ZiyadALharbi/Writing-tool) - An obsolete/abandoned Arabic-first writing workspace with local article management, version snapshots, word-level diffs, and AI rewrite suggestions.
 - [LLM](https://github.com/ZiyadALharbi/LLM) - A hands-on PyTorch project for learning how GPT-style language models work from tokenization through pretraining and fine-tuning.
 - [Fantasy Premier League (FPL) Analytics Project](https://github.com/ZiyadALharbi/Fantasy-Premier-League-FPL-Analytics-Project) - A Jupyter and Streamlit analytics workflow for 2024-25 FPL data with player, team, trend, and value optimization insights.
